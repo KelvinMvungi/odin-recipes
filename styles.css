@@ -24,6 +24,10 @@ p {
     font-size: 20px;
 }
 
+.top-para {
+    margin-top: 10px;
+}
+
 ul {
     margin: 0;
     padding-top: 5px;
